@@ -1,7 +1,7 @@
 francis@francis-HP-Laptop-15-da0xxx:~$ psftp
 psftp: no hostname specified; use "open host.name" to connec
 psftp> open debian@192.168.7.1
-Using username "debian".
+Using username "debian"
 debian@192.168.7.2's password: 
 Remote working directory is /home/debian
 psftp> lpwd
