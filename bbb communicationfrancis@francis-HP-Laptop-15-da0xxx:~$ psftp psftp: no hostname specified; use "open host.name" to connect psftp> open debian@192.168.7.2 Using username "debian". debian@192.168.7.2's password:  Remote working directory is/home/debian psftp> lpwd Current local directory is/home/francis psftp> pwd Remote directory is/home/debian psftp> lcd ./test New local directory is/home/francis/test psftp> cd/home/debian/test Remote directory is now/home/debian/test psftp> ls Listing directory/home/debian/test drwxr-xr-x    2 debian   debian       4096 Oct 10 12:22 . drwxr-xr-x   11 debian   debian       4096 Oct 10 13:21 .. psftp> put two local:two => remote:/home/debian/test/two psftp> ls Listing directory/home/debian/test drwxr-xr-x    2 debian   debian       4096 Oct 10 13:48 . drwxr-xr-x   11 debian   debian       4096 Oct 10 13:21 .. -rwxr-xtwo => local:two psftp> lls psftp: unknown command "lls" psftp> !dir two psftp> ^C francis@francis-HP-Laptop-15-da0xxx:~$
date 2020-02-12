@@ -27,7 +27,7 @@ psftp> get two
 remote:/home/debian/test/two => local:two
 psftp> lls
 psftp: unknown command "lls"
-psftp> !dir
+
 two
 psftp> ^C
 francis@francis-HP-Laptop-15-da0xxx:~$ 
