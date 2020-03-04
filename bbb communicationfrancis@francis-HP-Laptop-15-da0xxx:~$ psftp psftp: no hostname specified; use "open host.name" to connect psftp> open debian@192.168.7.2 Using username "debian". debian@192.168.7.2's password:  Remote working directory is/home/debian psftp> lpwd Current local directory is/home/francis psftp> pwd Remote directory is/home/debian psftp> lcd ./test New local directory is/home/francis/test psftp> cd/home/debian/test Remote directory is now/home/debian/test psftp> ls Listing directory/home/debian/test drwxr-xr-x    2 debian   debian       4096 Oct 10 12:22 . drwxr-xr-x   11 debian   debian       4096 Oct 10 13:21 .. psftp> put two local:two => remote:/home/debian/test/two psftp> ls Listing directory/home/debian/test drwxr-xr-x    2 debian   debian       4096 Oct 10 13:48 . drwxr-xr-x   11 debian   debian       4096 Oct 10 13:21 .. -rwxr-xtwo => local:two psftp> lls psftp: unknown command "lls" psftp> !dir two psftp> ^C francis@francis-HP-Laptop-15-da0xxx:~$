@@ -8,7 +8,7 @@ psftp> lpwd
 Current local directory is /home/francis
 psftp> pwd
 Remote directory is /home/debian
-psftp> lcd ./test
+
 New local directory is /home/francis/test
 psftp> cd /home/debian/test
 Remote directory is now /home/debian/test
@@ -28,6 +28,6 @@ remote:/home/debian/test/two => local:two
 psftp> lls
 psftp: unknown command "lls"
 
-two
+
 psftp> ^C
 francis@francis-HP-Laptop-15-da0xxx:~$ 
