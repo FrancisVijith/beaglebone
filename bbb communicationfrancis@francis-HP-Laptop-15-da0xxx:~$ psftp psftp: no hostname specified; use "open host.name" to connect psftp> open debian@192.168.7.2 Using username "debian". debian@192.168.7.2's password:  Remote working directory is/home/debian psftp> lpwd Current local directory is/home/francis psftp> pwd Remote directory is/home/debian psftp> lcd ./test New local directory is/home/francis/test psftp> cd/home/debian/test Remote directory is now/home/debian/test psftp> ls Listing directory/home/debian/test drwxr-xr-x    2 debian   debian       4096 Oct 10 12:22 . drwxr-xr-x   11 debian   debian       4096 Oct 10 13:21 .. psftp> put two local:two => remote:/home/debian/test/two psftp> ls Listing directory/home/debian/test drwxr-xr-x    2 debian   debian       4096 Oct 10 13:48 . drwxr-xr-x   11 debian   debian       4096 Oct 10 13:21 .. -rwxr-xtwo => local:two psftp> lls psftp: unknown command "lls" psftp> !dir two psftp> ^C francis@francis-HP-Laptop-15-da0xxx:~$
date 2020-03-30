@@ -9,7 +9,7 @@ Current local directory is /home/francis
 psftp> pwd
 Remote directory is /home/debian
 
-New local directory is /home/francis/test
+//New local directory is /home/francis/test
 psftp> cd /home/debian/test
 Remote directory is now /home/debian/test
 psftp> ls
